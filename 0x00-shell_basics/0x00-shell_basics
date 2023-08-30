@@ -1,5 +1,2 @@
 #!/bin/bash
-
-# Print the absolute path of the current working directory
-echo $(pwd)
-
+echo "12345678901234567890123456789012345678901234567890123456789012345678901234567890" > finlly.txt
